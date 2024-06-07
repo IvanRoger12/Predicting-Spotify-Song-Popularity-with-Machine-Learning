@@ -1,5 +1,4 @@
 # Predicting-Spotify-Song-Popularity-with-Machine-Learning
-# Predicting Spotify Song Popularity with Machine Learning
 
 ## Project Overview
 
